@@ -11,7 +11,7 @@ app distribution and works just fine!
 
 To use on e-ink screen:
 
-* Set Color Mode to Black on White
+* Set Background Color to white
 * Set Tileset to eink tiles
 
 Improvements to the einktiles on the way!
