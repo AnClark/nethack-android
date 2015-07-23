@@ -23,6 +23,7 @@ public class NetHackKeyboard implements OnKeyboardActionListener
 				R.layout.input, null);
 		virtualKeyboardView.setKeyboard(virtualKeyboardQwerty);
 		virtualKeyboardView.setOnKeyboardActionListener(this);
+		virtualKeyboardView.setPreviewEnabled(false);
 	}
 /*
 ^Z	suspend
