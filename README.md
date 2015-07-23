@@ -13,6 +13,7 @@ To use on e-ink screen:
 
 * Set Background Color to white
 * Set Tileset to eink tiles
+* Disable smooth scrolling
 
 Improvements to the einktiles on the way!
 
