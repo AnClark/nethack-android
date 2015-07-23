@@ -10,7 +10,7 @@
 	</string-array>
 	<string-array name="TileSetInfo">
 		<item>Standard 16x16 - from standard NetHack distribution</item>
-		<item>NetHack Modern (eink) 32x32 - by Tower Hufham, modified by Sirio Bolaños</item>
+		<item>NetHack Modern (eink) 32x32 - by Tower Hufham & game-icons.net, mod by Sirio Bolaños</item>
 	</string-array>
 	<integer-array name="TileSetTileSizesX">
 		<item>16</item>
