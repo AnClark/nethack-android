@@ -8,3 +8,13 @@ Could get it to compile properly under Arch Linux 64-bit using Eclipse ADT,
 Android SDK and latest Android NDK, and gets to run, but complains about
 incompatibility for file "dungeon". Used assets and libnethack.so from app
 distribution and works just fine!
+
+Merit goes to the original porter, the creator of the NetHack Modern tileset,
+and the guys at game-icons.net.
+No theft intended, I just want to share something that I made because it's
+useful to me.
+
+Tested on a Onyx Boox M96 ebook reader with 9.7" e-ink display, but expect it
+to work properly on other e-ink devices.
+
+Enjoy!
