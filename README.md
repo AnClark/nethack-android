@@ -16,6 +16,12 @@ To use on e-ink screen:
 
 Improvements to the einktiles on the way!
 
+To compile apk:
+
+* Install Eclipse and Android ADT with corresponding Android SDK, platform and build tools
+* Clone repo
+* Create Eclipse project on NetHackApp directory, set platform on project properties, build and run!
+
 Merit goes to the original porter, the creator of the NetHack Modern tileset,
 and the guys at game-icons.net.
 No theft intended, I just want to share something that I made because it's
