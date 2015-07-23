@@ -1,7 +1,7 @@
 #ifndef ANDROIDCONF_H
 #define ANDROIDCONF_H
 
-#define TEXTCOLOR		/* Use colored monsters and objects */
+#undef TEXTCOLOR
 
 #define ASCIIGRAPH		/* Enable IBMgraphics option */
 
